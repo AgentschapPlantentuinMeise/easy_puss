@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "easy_puss"
+version = "0.1.0"
+description = "An easy package for understanding spectral signal."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+authors = [
+    { name="Christophe Van Neste", email="christophe.vanneste@plantentuinmeise.be" }
+]
+
+dependencies = [
+    "numpy",
+    "pandas",
+]
+
+[project.urls]
+Homepage = "https://github.com/AgentschapPlantentuinMeise/easy_puss"
+Source = "https://github.com/AgentschapPlantentuinMeise/easy_puss"
+Issues = "https://github.com/AgentschapPlantentuinMeise/easy_puss/issues"
