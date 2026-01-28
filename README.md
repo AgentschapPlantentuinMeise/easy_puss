@@ -1,5 +1,8 @@
-### easy_puss  
+### easy_puss
 *A lightweight toolkit for processing, cleaning, and interpreting ICP-OES analytical data.*
+
+
+![Easy Puss Mascot](images/easy_puss_mascot.png)
 
 easy_puss provides a set of convenience classes to streamline the workflow around ICP-OES data. It focuses on reading raw exports, cleaning and harmonizing element measurements, applying LOD/LOQ rules, and preparing results for downstream analysis or reporting.
 
