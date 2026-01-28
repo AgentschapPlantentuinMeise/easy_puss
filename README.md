@@ -11,7 +11,7 @@ The package is designed to be simple, predictable, and easy to integrate into ex
 
 ## 🌱 Features
 
-- **Load PUSS result files** into tidy pandas DataFrames  
+- **Load Agilent 5800 result files** into tidy pandas DataFrames  
 - **Automatic type conversion** (strings → floats, numeric cleanup, NA handling)  
 - **LOD/LOQ masking**  
   - < LOD formatting  
